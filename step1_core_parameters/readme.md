@@ -7,7 +7,7 @@
 
 
 注：以上指标开发的复杂网络计算平台上都有涉及，大家可以去直接体验。
-![复杂网络计算平台](http://complex.threepurple.cn/)
+复杂网络计算平台: http://complex.threepurple.cn/
 
 最后：
 欢迎关注下面的公众号 获取更多资料，更多相关教程。
