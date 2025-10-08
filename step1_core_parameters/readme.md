@@ -11,4 +11,4 @@
 
 最后：
 欢迎关注下面的公众号 获取更多资料，更多相关教程。
-![三紫智造局](https://raw.githubusercontent.com/XuXING0430/doc_imgags/master/img/vx%E5%85%AC%E4%BC%97%E5%8F%B7.jpg?token=AK5455OE56YH3X5J4OMTEN3I4XHJE)
+![三紫智造局](https://doc.threepurple.cn/img/%2F2025%2F10%2F08%2F602f048396aac7247ffddd87eee2b571-vx%E5%85%AC%E4%BC%97%E5%8F%B7-32ede0.jpg)
