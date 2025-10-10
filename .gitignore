@@ -18,3 +18,7 @@ step1_core_parameters/._Step1_parameters.m
 /.idea/misc.xml
 /.idea/modules.xml
 /.idea/vcs.xml
+/step2_build_network/._edge_list.csv
+/step2_build_network/._function
+/step2_build_network/._Step_2_build_network_demo.m
+/step2_build_network/function/._WattsStrogatz.m
