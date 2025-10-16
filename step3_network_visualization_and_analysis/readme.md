@@ -1,6 +1,9 @@
+本文件代码对应的使用文章：
+TODO 文章地址
+
 使用方法：
-1. 替换你自己的邻接表到edge_list.csv文件中
-2. 然后执行文件：Step_2_build_network_demo.m 即可
+1. 可以新建一个邻接表edge_list.csv文件放到文件夹中，如果这个文件不存在会使用生成的模拟WS小世界网络
+2. 然后执行文件：Step3_network_visualization_and_analysis.m 即可
 
 提交issue：
 如有问题，建议，意见。可以提issue，我会及时处理。
