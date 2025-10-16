@@ -5,6 +5,7 @@
 * 0 学习路线：[文章-学习路线](https://doc.threepurple.cn/2025/10/07/%E5%A4%8D%E6%9D%82%E7%BD%91%E7%BB%9C%E4%BB%BF%E7%9C%9F%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A0%EF%BC%9A%20%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF/)
 * 1 核心指标：[文章-核心指标](https://doc.threepurple.cn/2025/10/07/%E5%A4%8D%E6%9D%82%E7%BD%91%E7%BB%9C%E4%BB%BF%E7%9C%9F%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A1%EF%BC%9A%E5%85%B3%E9%94%AE%E7%BD%91%E7%BB%9C%E6%8C%87%E6%A0%87%E8%A7%A3%E6%9E%90/) 对应本工程文件夹：/step1_core_parameters
 * 2 构建网络：[文章-构建网络](https://doc.threepurple.cn/2025/10/10/%E5%A4%8D%E6%9D%82%E7%BD%91%E7%BB%9C%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A%E7%B3%BB%E5%88%972%EF%BC%9A%E7%BD%91%E7%BB%9C%E6%9E%84%E5%BB%BA/) 对应本工程文件夹：/step2_build_network
+* 3 网络可视化与指标分析：[文章-网络可视化与指标分析](https://doc.threepurple.cn/2025/10/16/%E5%A4%8D%E6%9D%82%E7%BD%91%E7%BB%9C%E4%BB%BF%E7%9C%9F%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A%E7%B3%BB%E5%88%973-%E7%BD%91%E7%BB%9C%E4%B8%8E%E6%8C%87%E6%A0%87%E4%BB%BF%E7%9C%9F%E5%88%86%E6%9E%90/) 对应本工程文件夹：/step3_network_visualization_and_analysis
 
 
 **预告（欢迎提建议）：**
