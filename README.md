@@ -9,6 +9,8 @@
 * 4 社团分析：[文章-社团分析](https://doc.threepurple.cn/2025/10/22/%E5%A4%8D%E6%9D%82%E7%BD%91%E7%BB%9C%E4%BB%BF%E7%9C%9F%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A4-%E7%A4%BE%E5%9B%A2%E5%88%86%E6%9E%90/) 对应本工程文件夹：/step4_community_analysis
 
 
+[视频课程对应地址](https://www.bilibili.com/video/BV1dMs8zdEZ1/?vd_source=6036bca00732d23dc8b90cbad83c2a76)
+
 **预告（欢迎提建议）：**
 1. 鲁棒性分析
 2. 实现一个重要节点算法
