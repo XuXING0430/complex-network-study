@@ -24,5 +24,5 @@
 
 有想交流的，或者了解课程的的欢迎联系我。
 邮箱：**_purplethree6@gmail.com_**
-VX: 
+VX: ![](https://raw.githubusercontent.com/XuXING0430/doc_imgags/master/img/wechat-qr.png)
 
