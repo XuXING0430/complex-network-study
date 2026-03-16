@@ -11,16 +11,16 @@
 * 6 从0到1构建一个实体网络模型： [视频教程](https://www.bilibili.com/video/BV1xuyFBpEJL/)
 * 7 网路鲁棒性分析： [视频教程](https://www.bilibili.com/video/BV1hoUWBGED5/)
 
-[视频课程空间地址](https://www.bilibili.com/video/BV1dMs8zdEZ1/?vd_source=6036bca00732d23dc8b90cbad83c2a76)
+[免费视频课程空间地址](https://www.bilibili.com/video/BV1dMs8zdEZ1/?vd_source=6036bca00732d23dc8b90cbad83c2a76)
 
 配合课程一起使用的复杂网络计算平台: http://complex.threepurple.cn/
 
 
-**预告（欢迎提建议）：**
-即将推出一个进阶的实践课程，包括完整源码，逻辑讲解，一对一答疑，敬请期待。
+进阶的实践课程，包括完整源码，逻辑讲解，一对一答疑
 1. 完整鲁棒性仿真代码
 2. 实现一个重要节点算法
 3. 实现一个级联失效算法
+[对应的课程地址](https://course.threepurple.cn/pricing)
 
 有想交流的，或者了解课程的的欢迎联系我。
 * 邮箱：**_purplethree6@gmail.com_**
